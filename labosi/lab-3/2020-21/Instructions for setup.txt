@@ -1,0 +1,3 @@
+Unzipajte fajl i stavite ga u direktorij gdje su vam ostali project-i. U Eclipseu odite na File -> Open Projects from File System… -> gdje 
+pise Import source kliknite na Directory… -> navigirajte do mjesta di ste unzipali fajl s tim da putanja koju predate Eclipse-u mora
+ u sebi imati bin, src, .settings i ostala cudesa -> Select Folder -> Finish -> Profit
